@@ -1,7 +1,7 @@
 <h1>About</h1>
 
 <p>This is my submission for Project P3: Multi User Blog, part of Udacity's Full Stack Web Developer Nanodegree.</p>
-<p>Checkout Live version <a href="https://multi-user-blog-166007.appspot.com">Multi-User-Blog</a></p>
+<p>Checkout Live version <a href="https://multiuserblog-166610.appspot.com">Multi-User-Blog</a></p>
 <h1>Project specifications</h1>
 <p>Blog must include the following features:</p>
 <ul>
